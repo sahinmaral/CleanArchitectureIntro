@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Infrastructure\\CleanArchitectureIntro.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\CleanArchitectureIntro.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\CleanArchitectureIntro.Application.csproj",
+        "projectName": "CleanArchitectureIntro.Application",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\CleanArchitectureIntro.Application.csproj",
+        "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj",
+        "projectName": "CleanArchitectureIntro.Domain",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj",
+        "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Infrastructure\\CleanArchitectureIntro.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Infrastructure\\CleanArchitectureIntro.Infrastructure.csproj",
+        "projectName": "CleanArchitectureIntro.Infrastructure",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Infrastructure\\CleanArchitectureIntro.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj"
+              },
+              "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\CleanArchitectureIntro.Persistance.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\CleanArchitectureIntro.Persistance.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\CleanArchitectureIntro.Persistance.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\CleanArchitectureIntro.Persistance.csproj",
+        "projectName": "CleanArchitectureIntro.Persistance",
+        "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\CleanArchitectureIntro.Persistance.csproj",
+        "packagesPath": "C:\\Users\\sahin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\CleanArchitectureIntro.Application.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Application\\CleanArchitectureIntro.Application.csproj"
+              },
+              "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj": {
+                "projectPath": "C:\\Users\\sahin\\Desktop\\CleanArchitectureIntro\\CleanArchitectureIntro.Domain\\CleanArchitectureIntro.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

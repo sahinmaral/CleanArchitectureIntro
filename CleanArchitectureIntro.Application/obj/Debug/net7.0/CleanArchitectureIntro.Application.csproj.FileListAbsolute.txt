@@ -1,0 +1,15 @@
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\bin\Debug\net7.0\CleanArchitectureIntro.Application.deps.json
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\bin\Debug\net7.0\CleanArchitectureIntro.Application.dll
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\bin\Debug\net7.0\CleanArchitectureIntro.Application.pdb
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.AssemblyInfo.cs
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.dll
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\refint\CleanArchitectureIntro.Application.dll
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.pdb
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\ref\CleanArchitectureIntro.Application.dll
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\bin\Debug\net7.0\CleanArchitectureIntro.Domain.dll
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\bin\Debug\net7.0\CleanArchitectureIntro.Domain.pdb
+C:\Users\sahin\Desktop\CleanArchitectureIntro\CleanArchitectureIntro.Application\obj\Debug\net7.0\CleanArchitectureIntro.Application.csproj.CopyComplete
